@@ -1,0 +1,118 @@
+body{
+    background: #f4f4f9;
+}
+.contenedor_portada .img{           
+    background-image: url('https://elcomercio.pe/resizer/0BBwEcByPbMLNywN7RYvLFG8z1U=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/E3SQUSW22RHINLMB63SR7LG4IE.jpg');    
+    width: 100%;
+    height: 500px;        
+    background-repeat: no-repeat;    
+    background-size: 100%;
+    background-position: center center;/* W H */             
+    background-attachment:fixed;
+}
+.section_container-menu summary{
+    font-size: 25px;
+}
+.section_container-menu{
+    line-height: 30px;
+    width: 90%;
+    margin: 15px auto;
+}
+.grid-container,.grid-container2{        
+    display: grid;
+    width: 90%;
+    margin: 20px auto 50px;    
+    grid-template-columns: repeat(auto-fill,minmax(50%,1fr));
+    grid-template-rows: 300px;    
+    align-items: center;
+    justify-content: center;
+    grid-auto-flow:column;    
+}
+.grid-container2 .grid-item:nth-child(1){
+    order: 2;
+    margin-left: 30px;    
+}
+.grid-container2 .grid-item:nth-child(2){
+    order: 1;    
+}
+.grid-item img{
+    border-radius: 25px;
+    width: 100%;
+    height: 80%;
+}
+.modal-header img{
+    width: 100%;
+}
+.section_container-menu h2{
+    font: 35px h2;
+    text-align: center;
+    text-shadow:goldenrod 1px 1px 15px;   
+}
+.grid-item-boton{
+    display: flex;  
+    justify-content: center;
+}
+summary{
+    font: 30px parr;
+}
+h4{
+    font:24px parr;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.platillo{
+    font:24px parr;    
+    margin-bottom: 20px;
+    color: #000;
+}
+p{
+    font:16px parr;
+    line-height: 25px;
+}
+.close{
+    position: fixed;
+    z-index: 200;        
+}
+span{        
+    border-radius: 50%;
+    font-size: 30px;
+    height: 30px;
+    width: 30px;    
+    color: white;
+}
+.precio{            
+    font: 24px parr;   
+    color:#000;     
+}
+@font-face {
+    font-family:h2 ;
+    src: url(../FontFace/Permanent_Marker/PermanentMarker-Regular.ttf);        
+}
+@font-face {
+    font-family:parr;
+    src: url(../FontFace/Courier_Prime/CourierPrime-BoldItalic.ttf);
+}
+@media screen and (max-width:690px){
+    .contenedor_portada .img{           
+        height: 400px;                
+        background-position: center top;/* W H */             
+    }
+}
+@media screen and (max-width:580px){
+    .contenedor_portada .img{           
+        height: 300px;                
+        background-position: center top;/* W H */             
+    }
+}
+@media screen and (max-width:465px){
+    .contenedor_portada .img{           
+        height: 200px;                
+        background-position: center top;/* W H */             
+    }
+    .section_container-menu h2{
+        font-size: 25px;
+    }
+    .section_container-menu p{
+        font-size: 15px;
+    }
+}

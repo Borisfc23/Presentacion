@@ -1,0 +1,33 @@
+----------DATOS DEL CLIENTE-----------
+Codigo: D01EF06B-0
+Nombre: Pedro
+Fecha y Hora: 20/10/2020 - 13:47
+
+-------------------NUCLEO---------------------
+Potencia Aparente: 1500.0 watts(w)
+Potencia Maxima: 1656,46 watts(w)
+Densidad Maxima: 1,5 A/mm2
+Perdida Hierro: 0,04 w/Kg
+Seccion Area: 46,06 cm2
+Medida Formatela: 4.4 x 11.0 cm2
+Forma: Acorazado
+Cantidad Chapas: 55   de      0.5 mm
+
+------------DEVANO PRIMARIO--------------
+N° Espiras: 205 en 63mts
+Intensidad: 6,82 A
+N° Calibre: 14
+
+----------DEVANO SECUNDARIO----------
+N° Espiras(1): 140 en 43mts
+N° Calibre(1): 13 de 10.0A
+
+N° Espiras(2): 47 en 14mts
+N° Calibre(2): 16 de 5.0A
+
+N° Espiras(3): 19 en 6mts
+N° Calibre(3): 20 de 2.0A
+
+N° Espiras(4): 0 en 0mts
+N° Calibre(4): 0 de 0.0A
+.------------------------------------------------

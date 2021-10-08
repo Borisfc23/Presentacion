@@ -1,0 +1,106 @@
+body{       
+    font-family: sans-serif;
+}
+.container{
+    margin-top: 75px ;
+}
+.container-titulo{
+    text-align: center;
+}
+.titulo{        
+    font:bold 40px sans-serif;
+    color:#888;
+    text-shadow:5px 5px 5px #bbb;
+}
+.container-historia h2,.container-MV h2,.recomend{
+    font:bold 25px sans-serif;
+    /* color:#999;     */
+}
+.container p{
+    font: 16px sans-serifs;    
+}
+@font-face{
+    font-family: tit;
+    src: url(../FontFace/Permanent_Marker/PermanentMarker-Regular.ttf);  
+}
+@font-face{    
+    font-family: parr;
+    src: url(../FontFace/Courier_Prime/CourierPrime-Italic.ttf);
+}
+.container-polaroid img{
+    width: 280px;
+    height:300px
+}
+.container-famosos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin-top: 30px;
+    justify-content: space-around;
+}
+.container-polaroid{    
+    width: 300px;
+    margin: 0 auto 20px;
+    background-color:white;
+    padding:10px 10px 40px 10px;
+    border:1px solid #BFBFBF;
+    box-shadow:10px 10px 20px rgba(0, 0, 0, 0.8);
+}
+.rotarIzq{
+    transform: rotate(-7deg);
+}
+.rotarDer{
+    transform: rotate(7deg);
+}
+.textPolaroid{
+    font: 18px span;
+    display:block;
+    margin-top:2em;
+    text-align:center;
+    font-style:italic;
+}
+@font-face{    
+    font-family: span;
+    src: url(../FontFace/Courier_Prime/CourierPrime-BoldItalic.ttf);
+}
+@media screen and (min-width:768px) and (max-width:1000px){
+    .container-famosos{
+        display: flex;
+        flex-direction: row;        
+        flex-wrap: wrap;
+    }    
+    .container-polaroid{            
+        margin: 0 auto 40px auto;        
+    }
+    .container-polaroid:nth-child(2){
+        order: 3;
+    }
+    .container-polaroid:nth-child(3){
+        order: 2;
+    }
+}
+@media screen and (min-width:576px) and (max-width:767px){
+    .container-famosos{
+        display: flex;
+        flex-direction: row;        
+        flex-wrap: wrap;
+    }    
+    .container-polaroid{            
+        margin: 0 auto 40px auto;        
+    }    
+}
+@media screen and (max-width:576px){
+    .container{
+        margin-top: 80px ;
+    }
+    .container-famosos{
+        display: flex;
+        flex-direction: column;        
+    }
+    .rotarIzq{
+        transform: rotate(0);
+    }
+    .rotarDer{
+        transform: rotate(0);
+    }
+}

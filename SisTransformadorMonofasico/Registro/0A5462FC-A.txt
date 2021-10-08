@@ -1,0 +1,35 @@
+----------DATOS DEL CLIENTE-----------
+Codigo: 0A5462FC-A
+Nombre: Juan Perez
+Fecha y Hora: 8/10/2020 - 22:1
+
+-------------------NUCLEO---------------------
+Potencia Aparente: 1000.0 watts(w)
+Potencia Maxima: 1021,07 watts(w)
+Densidad Maxima: 2 A/mm2
+Perdida Hierro: 0,04 w/Kg
+Seccion Area: 37,61 cm2
+Medida Estandar: 3.8 x 10 cm2
+Forma: Acorazado
+Cantidad Chapas: 50   de      0.5 mm
+
+------------DEVANO PRIMARIO--------------
+N° Espiras: 261 en 71,98mts
+Intensidad: 4,55 A
+Seccion: 2,27 mm2
+N° Calibre: 16
+
+----------DEVANO SECUNDARIO----------
+N° Espiras(1): 119 en 33mts
+N° Calibre(1): 13 de 10.0A
+
+N° Espiras(2): 59 en 16mts
+N° Calibre(2): 16 de 5.0A
+
+N° Espiras(3): 24 en 7mts
+N° Calibre(3): 18 de 3.0A
+
+N° Espiras(4): 12 en 3mts
+N° Calibre(4): 20 de 2.0A
+.------------------------------------------------
+Asistente: boris

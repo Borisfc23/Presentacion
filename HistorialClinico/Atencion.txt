@@ -1,0 +1,16 @@
+12345678/Leo/11-10-20/Pepe Lopez
+12345678/Leo/10-12-20/Pepe Lopez
+45682137/Luisa/13-12-20/Rodrigo Montez
+78541236/Carlos/14-12-20/Pedro Soliz
+78541236/Carlos/14-12-20/Daniela Cordova
+87452369/Vanessa/15-12-20/Daniela Cordova
+74586213/Luis/16-12-20/Sofia Palmar
+72547863/Roman/14-12-20/Esteban Zapata
+47856923/Mercedez/15-12-20/Juan Zotelo
+36985214/Victor/15-12-20/Fernando Proaño
+78541236/Carlos/15-12-20/Daniela Cordova
+74586213/Luis/15-12-20/Fernando Proaño
+87452369/Vanessa/14-12-20/Victor Quiroz
+72839192/Antonio/15-12-20/Rodrigo Montez
+72839192/Antonio/12-11-20/Rodrigo Montez
+123/tes/22-10-12/Juan Zotelo

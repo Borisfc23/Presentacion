@@ -1,0 +1,21 @@
+body{
+    font-family: sans-serif;            
+}
+.contenedor-checkout{   
+    border: 1px solid black;
+}
+.contenedor-detalles_envio{    
+    border: 1px solid #ccc;
+    margin-right: 5px;
+}
+.contenedor-orden{    
+    border: 1px solid #ccc;
+}
+table thead{
+    border-top:1px solid #ccc;
+    border-bottom:1px solid #ccc;
+    background: linear-gradient(#eee,#fff);
+}
+tfoot tr{
+    background: linear-gradient(#fff,#eee);
+}

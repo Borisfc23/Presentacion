@@ -1,0 +1,339 @@
+body{    
+    font-family:sans-serif;
+}
+.navbar-nav a:hover{    
+    font-weight: bold;    
+}
+#banner{
+    margin-top: 56px;    
+    position: relative;
+}
+#banner img{
+    width: 100%;
+    height: 100vh;    
+    transition:0.8s;
+}
+#banner .contenedor{
+    position: absolute;
+    top: 170px;
+    left:13px;    
+    color: #fff;
+    line-height: 30px;
+    transition: 0.8s;
+}
+#banner h2{    
+    font: bold 40px sans-serif;   
+    margin-left:0.5em;         
+}
+#banner p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left:0.5em;         
+    font: normal 35px sans-serif;            
+}
+#banner a{
+    display: block;
+    width: 100px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    padding-top: 1px;
+    border: 3px solid #fff;
+    border-radius: 5px;
+    margin-left:10%;
+}
+#banner a:hover{        
+    background: rgba(51, 51, 51, 0.7);
+}
+/* FRASE DE BIENVENIDA */
+.contenedor_Bienvenido{
+    width:85%;
+    margin:15px auto;  
+}
+.carousel-item img{
+    border-radius: 40px;
+}
+.Frase_Bienvenido h2{
+    font:bold 45px sans-serif;
+    color:#888;
+    text-shadow:5px 5px 5px #bbb;
+    text-align: center;   
+}
+
+.Frase_Bienvenido p{
+    font:normal 20px pieletra;
+    line-height:22px;
+}
+/* Carousel */
+.slide{
+    width:60%;   
+    margin:15px auto     
+}
+/* COMIDAS DEL DIA */
+#comidas .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#comidas .contenedor img{            
+    width: 300px;
+    height: 300px;                  
+    margin: 20px 15px;      
+}
+main #comidas h3,h4{
+     text-align: center;         
+     font-weight: bold;      
+}
+#comidas h3{
+    font: bold 30px sans-serif;    
+}
+#comidas h4{
+    font: bold 24px sans-serif;
+}
+#fraseSalida{
+    color: goldenrod;    
+    font: bold 35px sans-serif;
+    text-align: center;
+    text-shadow:gray 5px 5px 15px;   
+}
+
+/* ANIMACIONES */
+.contenedor img{
+    transition-property: all;       
+    transition-duration: 0.5s;            
+}        
+.food:hover img{
+    border-radius: 50%;            
+    transform: rotate(10deg);
+    box-shadow:gray 10px 10px 15px;            
+} 
+article:hover h4{
+    color: goldenrod;
+    text-shadow:gray 5px 5px 10px;                    
+}    
+/* CONTENEDOR MAPA */
+.Contenedor_ubicacion{                
+    width: 90%;
+    height: auto;
+    margin: 50px auto;
+    /*FLEX*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.contenido{            
+    text-align: center;      
+}
+.contenido>h2{
+    font:bold 40px sans-serif;        
+}
+.contenido>p{
+    font:normal 25px pieletra;    
+} 
+@media screen and (min-width:700px) and (max-width:990px){
+    #banner img{
+        width: 100%;
+        height: 100%;
+        margin-top: -15%;
+        transition:0.8s;
+    }
+    #banner .contenedor{
+        position: absolute;
+        top: 80px;
+        transition:0.8s;
+    }
+    #banner h2{        
+        font: bold 35px sans-serif; 
+        margin-bottom: 3px;         
+        margin-left: 5px;          
+    }
+    #banner p{
+        margin: 3px 10px 10px 5px;        
+        font: normal 24px sans-serif;            
+    }       
+    .Frase_Bienvenido h2{
+        font:bold 40px sans-serif;        
+    }    
+    .Frase_Bienvenido p{
+        font:18px pieletra;        
+    }
+    .slide{
+        width:85%;   
+        margin:15px auto     
+    }
+} 
+@media screen and (min-width:576px) and (max-width:700px){
+    #banner img{
+        width: 100%;
+        height: 100%;
+        margin-top: -15%;
+        transition:0.8s;
+    }
+    #banner .contenedor{
+        position: absolute;
+        top: 50px;
+        transition:0.8s;
+    }
+    #banner h2{        
+        font: bold 28px sans-serif; 
+        margin-bottom: 3px;         
+        margin-left: 5px;  
+    }
+    #banner p{
+        margin: 3px 10px 10px 5px;        
+        font: normal 17px sans-serif;            
+    }   
+    .Frase_Bienvenido p{
+        font:16px pieletra;        
+    }
+    .slide{
+        width:90%;   
+        margin:15px auto     
+    }
+}           
+@media screen and (min-width:415px) and (max-width:576px){
+    .Frase_Bienvenido h2{
+        font-size: 35px;
+        margin:0 auto;
+    }
+    #comidas h3{
+        font-size: 25px;
+    }
+    .Contenedor_ubicacion{  
+        display: block;
+    }
+    #banner img{
+        margin-top: -18%;
+        width: 100%;
+        height: 290px;       
+        transition:0.8s; 
+    }
+    #banner .contenedor{
+        position: absolute;
+        top: 40px;
+        transition:0.8s;
+    }
+    #banner h2{        
+        font: bold 19px sans-serif; 
+        margin-bottom: 3px;         
+        margin-left: 5px;  
+    }
+    #banner p{
+        margin: 3px 10px 10px 5px;        
+        font: normal 15px sans-serif;            
+    }
+    #banner a{        
+        font-size: 15px;
+        padding-top: 0;
+        height: 28px;        
+        font-weight: bold;        
+        border: 2px solid #fff;        
+    } 
+    .elementoU iframe{
+        width: 290px;
+        height: 200px;
+        display: flex;
+        margin: 0 auto;
+    }
+    .elementoU h2{
+        font-size: 25px;
+    }     
+    .elementoU p{
+        font-size: 16px;
+    }      
+    .contenedor_frase-final{
+        padding: 5px;
+    }  
+    #fraseSalida{        
+        font-size: 18px;
+    }
+    #comidas .contenedor img{            
+        width: 250px;
+        height: 250px;                  
+        margin: 25px 10px;      
+    }    
+    .slide{
+        width:90%;   
+        margin:15px auto     
+    }
+    .Frase_Bienvenido p{
+        font:normal 16px pieletra;
+    }
+}
+@media screen and (max-width:415px){
+    .Frase_Bienvenido h2{
+        font-size: 28px;
+        margin:0 auto;
+    }
+    .Frase_Bienvenido h3{
+        font-size: 20px;
+    }
+    .Frase_Bienvenido p{
+        font:normal 14px pieletra;
+    }
+    #comidas h3{
+        font-size: 25px;
+    }
+    .Contenedor_ubicacion{  
+        display: block;
+    }
+    #banner img{
+        margin-top: -25%;
+        width: 100%;
+        height: 290px;     
+        transition:0.8s;   
+    }
+    #banner .contenedor{
+        position: absolute;
+        top: 40px;
+    }
+    #banner h2{        
+        font: bold 19px sans-serif; 
+        margin-bottom: 3px;         
+        margin-left: 5px;  
+    }
+    #banner p{
+        margin: 3px 10px 10px 5px;        
+        font: normal 15px sans-serif;            
+    }
+    #banner a{        
+        font-size: 15px;
+        padding-top: 0;
+        height: 28px;        
+        font-weight: bold;        
+        border: 2px solid #fff;        
+    } 
+    .elementoU iframe{
+        width: 290px;
+        height: 200px;
+        display: flex;
+        margin: 0 auto;
+    }
+    .elementoU h2{
+        font-size: 25px;
+    }     
+    .elementoU p{
+        font-size: 16px;
+    }   
+    .contenedor_frase-final{
+        padding: 5px;
+    }  
+    #fraseSalida{        
+        font-size: 18px;
+    }
+    #comidas .contenedor img{            
+        width: 250px;
+        height: 250px;                  
+        margin: 25px 10px;      
+    }  
+    #borrar{
+        display: none;
+    }
+    .slide{
+        width:90%;   
+        margin:15px auto     
+    }
+}

@@ -1,0 +1,146 @@
+body{
+    background: #f4f4f970;   
+    font-family: sans-serif; 
+}
+#nv-s{    
+    top: 39px;
+    width:100%;        
+}
+main{
+    z-index: -1;
+    margin-top: 105px;
+}
+.contenedor-login{
+    margin: 6% auto;
+    width:340px;
+    height: 450px;    
+    position: relative;
+    overflow: hidden;          
+    background: rgba(125, 125, 125, 0.2);  
+    border-radius:20px;
+}
+.contenedor-registro{
+    margin: 6% auto;
+    width:350px;
+    height: 550px;    
+    position: relative;
+    overflow: hidden;          
+    background: rgba(125, 125, 125, 0.2);  
+    border-radius:20px;
+}
+.caja-btn{
+    width:220px;
+    margin: 30px auto;
+    position:relative;    
+    text-align: center;    
+}
+.tog-btn{
+    padding: 10px 20px;
+    cursor: pointer;
+    background: transparent;
+    border:0;   
+    position: relative;
+    font-family: parr;
+}
+
+@font-face {
+    font-family:parr;
+    src: url(../FontFace/Courier_Prime/CourierPrime-Italic.ttf);
+}
+.input-group{
+    top: 155px;
+    position:absolute;
+    width: 280px;
+    transition:0.8s;    
+    text-align: center;
+}
+.input-field{
+    width: 100%;
+    padding:10px 10px;
+    margin: 10px 0;    
+    border: none;
+    border-radius: 10px;        
+}
+.input-field:hover{
+    background:linear-gradient(to bottom,transparent,rgba(120,120,120,0.3));
+}
+.submit-btn{
+    width: 80%;
+    cursor:pointer;
+    padding: 10px 30px;    
+    margin: 20px auto;    
+    font-weight: bold;
+    color:#fff;
+    font-size: 17px;
+    text-transform:uppercase;
+    border-radius:15px;
+    outline:none;    
+}
+.check-box-contra{
+    margin: 15px 10px 10px 20px;    
+}
+.check-box-terminos{
+    margin: 15px 10px 10px 20px;    
+}
+#login{
+    left: 25px;
+}
+#registro{
+    left: 35px;
+}
+span{
+    margin-top: 8px;
+    color: #757575;    
+    bottom:64px;          
+    font-style: italic;  
+}
+.redes-sociales{
+    margin:35px auto;
+    text-align: center;    
+}
+.redes-sociales img{
+    width: 35px;
+    margin: 0 12px;
+    box-shadow: 0 0 10px #777;
+    cursor: pointer;
+    border-radius: 50%;
+}
+.rs-f:hover,.rs-t:hover,.rs-g:hover{
+    transform: rotate(360deg);    
+    transition: 1s;
+}
+.navbar-nav a:hover{    
+    font-weight: bold;    
+}
+@media screen and (max-width:940px){
+    .contenedor-login{
+        margin: 12% auto;      
+        height: 450px;          
+        transition: 0.8s;
+    }
+    .contenedor-registro{
+        margin: 12% auto;            
+        transition: 0.8s;
+    }
+}
+@media screen and (max-width:500px){
+    .contenedor-login{
+        margin: 22% auto; 
+        height: 450px;               
+        transition: 0.8s;
+    }
+    .contenedor-registro{
+        margin: 22% auto;            
+        transition: 0.8s;
+    }
+}
+.register{
+    width: 100%;
+    line-height: 6px;
+    text-align: center;
+    font-family:parr
+}
+.caja-btn h2{
+    font-weight: #000;
+    font-family: sans-serif;    
+}

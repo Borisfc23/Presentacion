@@ -1,0 +1,11 @@
+FA3864D8-3/Leo/Perez/Gutierrez/Jr Junin/Masculino/profesor/Peruana/Casado/44/12345678
+06DF3ECF-6/Luisa/Moralez/Castro/Av Girasoles 156/Femenino/Secretaria/Peruana/Casado/39/45682137
+9B0B305B-A/Carlos/Herrera/Beltran/Av San Martin 123/Masculino/Abogado/Peruana/Soltero/29/78541236
+D3A02C79-F/Victor/Echebarria/Gomez/Jr Lurin 47/Masculino/Arquitecto/Peruana/Estado Civil/42/36985214
+690641BF-5/Mercedez/Neyra/Bolaños/Av Benavides 798/Femenino/Ing Civil/Peruana/Casado/35/47856923
+06371D17-7/Roman/Alvarez/Castro/Av Miguel Iglesias 459/Masculino/Abogado/Peruana/Soltero/26/72547863
+300D2BED-5/Luis/Martinez/Ferrúa/Jr Tacna/Masculino/Médico/Peruana/Casado/49/74586213
+ED67F838-8/Vanessa/Terkes/Ochoa/Av Ejercito 1035/Femenino/Secretaria/Peruana/Soltero/31/87452369
+1ABF6C29-3/Enrique/Zapata/Solis/Jr. Santo Domingo 321/Masculino/Profesor/Venezolana/Soltero/32/73923837
+6E1D1137-3/Antonio/Bandera/Capac/Jr. Los Rosales 323/Masculino/Profesor/Venezolana/Casado/34/72839192
+96E3E4F4-0/tes/tes/tes/tes/Masculino/tes/Venezolana/Soltero/12/123

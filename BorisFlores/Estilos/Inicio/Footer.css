@@ -1,0 +1,32 @@
+*{
+    font-family:sans-serif;
+}
+.contenedor-footer{     
+    background: rgba(28, 35, 49, 0.9); 
+    color: #fff;
+    width:100%;
+    /* height:65px; */
+    height: 25px;
+    text-align: center;    
+    position: relative;
+    bottom: 0;
+    left: 0;    
+}
+.sociales{
+    height: 25px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;    
+    margin-bottom: 15px;
+    outline: none;
+}
+.sociales a{
+    text-decoration: none;
+    color: #fff;        
+}
+#footer-autor{
+    font-size: 16px;
+    color: #fff;
+    font-style: normal;
+}

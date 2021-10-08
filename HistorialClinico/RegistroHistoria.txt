@@ -1,0 +1,12 @@
+FA3864D8-3/11-10-20/hipertencion arterial/penisilina/88/55.0/38.0/76.0/1.7/23.0
+06DF3ECF-6/13-12-20/Intoxicacion por ingestion de alimentos en mal estado/Suero y 1 pastilla al dia de ranitidina por 4 dias/82/60.0/37.0/78.0/1.75/24.0
+9B0B305B-A/13-12-20/Resfriado comun/2 pastillas de paracetamol y comidas tibias/72/75.0/38.5/65.0/1.6/20.0
+D3A02C79-F/13-12-20/Urticaria/No comer grasas ni frituras , todo sancochado/82/85.0/36.0/74.0/1.8/25.0
+690641BF-5/13-12-20/Tension en los omoplatos y cintura/Relajantes musculares y evitar movimientos bruscos/76/75.0/37.0/80.0/1.71/24.0
+06DF3ECF-6/13-12-20/asdas/asdas/33/34.0/38.0/65.0/1.5/23.0
+ED67F838-8/14-12-20/sdsdsdsd/sdsd/33/33.0/33.0/33.0/33.0/33.0
+300D2BED-5/11-12-20/asd/asd/32/23.0/32.0/32.0/33.0/33.0
+ED67F838-8/11-12-20/11/11/11/11.0/11.0/11.0/11.0/11.0
+6E1D1137-3/15-12-20/Tension arterial alta/glimepirida (Amaryl)
+
+/80/90.0/38.0/72.0/1.65/23.0

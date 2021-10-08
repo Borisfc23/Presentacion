@@ -1,0 +1,12 @@
+boris/123/Boris/Flores/borisfc@gmail.com/Doctor/76898799/1000001
+juanz/123/Juan/Zotelo/juanzt@hotmail.com/Doctor/72376587/100012
+pedro/123/Pedro/Soliz/pedro@gmail.com/Doctor/76923125/10021
+pedroBZ/123/Pepe/Lopez/pedroBZ@gmail.com/Doctor/76923422/121
+rodrigo/1234/Rodrigo/Montez/rodrigo@gmail.com/Doctor/76876543/1001
+esteban/123/Esteban/Zapata/Esteban@gmail.com/Doctor/76876655/1002
+sofia/12345/Sofia/Palmar/sofia@gmail.com/Doctor/76898767/10003
+daniela/1234/Daniela/Cordova/dani@hotmail.com/Doctor/78767770/10004
+daniel/12345/Daniel/Torres3/daniel@gmail.com/Doctor/78767235/10006
+victor/1/Victor/Quiroz/victor@gmail.com/Doctor/7987654/100010
+fernando/1/Fernando/Proaño/fernando@gmail.com/Doctor/78985409/100011
+jesus/1/Jesus/Mogrovejo/jesus@gmail.com/Doctor/78987656/110001

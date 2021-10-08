@@ -1,0 +1,66 @@
+body{
+    font-family: sans-serif;
+    background: #f4f4f9;
+}
+.section-portada .img{        
+    background-image: url('https://elcomercio.pe/resizer/0BBwEcByPbMLNywN7RYvLFG8z1U=/980x0/smart/filters:format(jpeg):quality(75)/arc-anglerfish-arc2-prod-elcomercio.s3.amazonaws.com/public/E3SQUSW22RHINLMB63SR7LG4IE.jpg');    
+    /* background-image: url('../../Imagenes/ImgReservaciones/portada.jpg');     */
+    width: 100%;
+    height: 500px;       
+    background-repeat: no-repeat;        
+    background-size: 100%;
+    background-attachment: fixed;
+    background-position: center center;    
+    transition: 0.8s;         
+}
+h2{                 
+    font:bold 35px sans-serif;
+    color: #888;    
+    text-shadow: 5px 5px 5px #bbb;
+    text-align: center;
+}
+span{
+    font: 20px sans-serif;
+    text-align: center;
+}
+::placeholder{
+    font-weight: bold;
+}    
+.form-row input{
+    border: none;
+    padding: 6px;
+    border-radius: 10px;
+}
+.form-row input:hover,textarea:hover{
+    background:linear-gradient(to bottom,transparent,rgba(120,120,120,0.3));
+}
+textarea{
+    border: none;
+    height: 150px;
+    resize: none;
+}
+button{
+    padding: 7px;
+    font-size: 17px;
+}
+@media screen and (min-width:580px) and (max-width:940px){
+    .section-portada .img{           
+        height: 400px;                
+        background-position: center top;/* W H */    
+        transition: 0.8s;         
+    }
+}
+@media screen and (max-width:580px){
+    .section-portada .img{           
+        height: 300px;                
+        background-position: center top;/* W H */             
+        transition: 0.8s;         
+    }
+}
+@media screen and (max-width:465px){
+    .section-portada .img{           
+        height: 200px;                
+        background-position: center top;/* W H */             
+        transition: 0.8s;           
+    }
+}

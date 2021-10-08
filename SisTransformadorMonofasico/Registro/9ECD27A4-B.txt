@@ -1,0 +1,35 @@
+----------DATOS DEL CLIENTE-----------
+Codigo: 9ECD27A4-B
+Nombre: Pedro Quispe
+Fecha y Hora: 8/10/2020 - 22:4
+
+-------------------NUCLEO---------------------
+Potencia Aparente: 1000.0 watts(w)
+Potencia Maxima: 1021,07 watts(w)
+Densidad Maxima: 2 A/mm2
+Perdida Hierro: 0,05 w/Kg
+Seccion Area: 37,61 cm2
+Medida Estandar: 3.8 x 10 cm2
+Forma: Acorazado
+Cantidad Chapas: 50   de      0.5 mm
+
+------------DEVANO PRIMARIO--------------
+N° Espiras: 109 en 29,99mts
+Intensidad: 9,09 A
+Seccion: 4,55 mm2
+N° Calibre: 13
+
+----------DEVANO SECUNDARIO----------
+N° Espiras(1): 99 en 27mts
+N° Calibre(1): 13 de 10.0A
+
+N° Espiras(2): 20 en 5mts
+N° Calibre(2): 20 de 2.0A
+
+N° Espiras(3): 0 en 0mts
+N° Calibre(3): 0 de 0.0A
+
+N° Espiras(4): 0 en 0mts
+N° Calibre(4): 0 de 0.0A
+.------------------------------------------------
+Asistente: BORIS

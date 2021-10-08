@@ -1,0 +1,34 @@
+----------DATOS DEL CLIENTE-----------
+Codigo: 4DAA8C97-8
+Nombre: Pepe
+Fecha y Hora: 9/10/2020 - 11:32
+
+-------------------NUCLEO---------------------
+Potencia Aparente: 1000.0 watts(w)
+Potencia Maxima: 1021,07 watts(w)
+Densidad Maxima: 2 A/mm2
+Perdida Hierro: 0,04 w/Kg
+Seccion Area: 37,61 cm2
+Medida Estandar: 3.8 x 10 cm2
+Forma: Acorazado
+Cantidad Chapas: 50   de      0.5 mm
+
+------------DEVANO PRIMARIO--------------
+N° Espiras: 261 en 72mts
+Intensidad: 4,55 A
+N° Calibre: 16
+
+----------DEVANO SECUNDARIO----------
+N° Espiras(1): 119 en 33mts
+N° Calibre(1): 13 de 10.0A
+
+N° Espiras(2): 59 en 16mts
+N° Calibre(2): 16 de 5.0A
+
+N° Espiras(3): 0 en 0mts
+N° Calibre(3): 0 de 0.0A
+
+N° Espiras(4): 0 en 0mts
+N° Calibre(4): 0 de 0.0A
+.------------------------------------------------
+Asistente: D
